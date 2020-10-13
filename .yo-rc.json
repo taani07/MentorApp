@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.deloitte.ca"
+    },
+    "jhipsterVersion": "6.10.3",
+    "applicationType": "monolith",
+    "baseName": "Mentor_MatchMaking",
+    "packageName": "com.deloitte.ca",
+    "packageFolder": "com/deloitte/ca",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDM0Y2Y1YjM1YmFhMDBiNjA5NjVjM2NmZjBkMTBkZjcwMDAyMzdhNTlmZGE4NmRlNzg4NzZhOGNiMGI3NTY1ZGU4M2ZiOGUxMGU3Mjc3ZDg4MmQ3MDQ5ZDAwMzk1OTIwMzIwNDk3OTRhODVkODU0ZmQ5YWQ2YWRiNjdmMDliNDE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1602628740771,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
